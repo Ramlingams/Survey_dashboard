@@ -15,3 +15,11 @@ No backend. No server. Just open `index.html`.
 
 ## Run
 Just open `index.html` in any browser.
+
+
+## Version History
+### v1.1
+- Local data persistence using browser storage
+- Export survey responses as CSV
+- Data reset option
+
